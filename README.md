@@ -5,7 +5,7 @@ git clone https://github.com/korn-git/emailservice
 ```
 2. Change your directory to emailservice folder<br/>
 ```
-cd path/to/emailservice
+cd <path>/<to>/emailservice
 ```
 3. Build your docker image locally<br/>
 ```
